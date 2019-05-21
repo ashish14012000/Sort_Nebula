@@ -1,6 +1,6 @@
 # Sort_Nebula
 
-I'm Ashish from cse department,aiming to be good at competitve coding.
+I'm Ashish Singh from cse department,aiming to be good at competitve coding.
 
 C++ being my favourite programming language has been implemented in the solutions.
 
